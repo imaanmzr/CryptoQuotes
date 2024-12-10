@@ -7,7 +7,7 @@ The **CryptoQuote** API provides users with real-time cryptocurrency quotes and 
 ## 🔑 Key Technologies, Architecture & Patterns  
 
 - 🛠 **.NET 8**  
-- 🏗 **Clean Architecture**  
+- 🏗 **Clean Architecture along with Vertical Slices**  
 - ⚙️ **CQRS (Command Query Responsibility Segregation)**  
 - 📦 **MediatR**  
 - ✅ **Fluent Validation**  
